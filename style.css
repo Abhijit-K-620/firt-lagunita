@@ -438,6 +438,7 @@ body {
     background: url(https://lagunitas.com/wp-content/themes/lagunitas/assets/images/texture.png);
     background-position: center;
     background-size: cover;
+    
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: rgb(0, 0, 0);
